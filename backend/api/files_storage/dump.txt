@@ -1,0 +1,10 @@
+Tenant
+ID
+Type
+Path
+Values
+ActivationInterval
+Id
+DestinationRatesId
+TimingTag
+Weight
